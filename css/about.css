@@ -1,0 +1,64 @@
+body{
+    background-image: url("/img/symphony.png");
+    font-family: 'Quicksand', sans-serif;
+    color: #00bfaf;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    /*#cfd0d3*/
+}
+ul{
+    background-color: white;
+}
+a {
+    color: #00bfaf;
+    font-size: 35px;
+}
+a:hover { 
+    background-color: #cfd0d3;
+    color: #00bfaf;
+    text-decoration: none;
+}
+
+#profile{
+    margin-top: -8px;
+    margin-left:40px;
+    float: left;
+}
+#greybox{
+    height: 80px;
+    padding: 0px;
+    margin-top: 58px;
+    margin-left: 0px;
+    margin-right:0px;
+    background-color: #cfd0d3;
+    color: #00bfaf;
+}
+#greyboxtext{
+    font-size: 60px;
+    color: white;
+}
+.container{
+    width: 100%;
+    padding:0px;
+}
+p{
+    font-size: 20px;
+}
+#valuesbox{
+    height: 80px;
+    padding: 0px;
+    margin-top: 58px;
+    background-color: white;
+    color: #00bfaf;
+}
+#valuesboxtext{
+    font-size: 60px;
+    color: #00bfaf;
+}
+.col-md-3{
+    float:left;
+    margin-left:70px;
+}
